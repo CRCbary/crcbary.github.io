@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M50 8 L88 24 L88 52 C88 72 70 88 50 96 C30 88 12 72 12 52 L12 24 Z" fill="#0D2444"/>
+  <path d="M50 18 L80 31 L80 52 C80 68 66 81 50 88 C34 81 20 68 20 52 L20 31 Z" fill="#1565C0"/>
+  <text x="50" y="62" font-size="24" font-family="Arial,sans-serif" font-weight="bold" fill="white" text-anchor="middle">OG</text>
+</svg>
